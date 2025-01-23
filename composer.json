@@ -1,0 +1,65 @@
+{
+    "name": "kulkalabs/geschwindigkeits-optimierer",
+    "description": "Maximale Geschwindigkeit für Ihre WordPress-Seite. Bis zu 300% schneller!",
+    "type": "wordpress-plugin",
+    "version": "1.0.0",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Kulka Labs s. r. o.",
+            "email": "info@storepulse.de",
+            "homepage": "https://storepulse.de"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "composer/installers": "~1.0",
+        "ext-json": "*",
+        "ext-gd": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0",
+        "squizlabs/php_codesniffer": "^3.6",
+        "wp-coding-standards/wpcs": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "KulkaLabs\\GeschwindigkeitsOptimierer\\": "src/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit",
+        "phpcs": "phpcs --standard=WordPress"
+    },
+    "support": {
+        "email": "info@storepulse.de",
+        "docs": "https://storepulse.de/docs",
+        "source": "https://storepulse.de/plugins/geschwindigkeits-optimierer"
+    },
+    "extra": {
+        "wordpress-plugin": {
+            "versions": {
+                "trial": {
+                    "price": 2.49,
+                    "features": ["1 Webseite", "Grundfunktionen", "Keine Updates"]
+                },
+                "starter": {
+                    "price": 29.99,
+                    "features": ["1 Webseite", "Basis-Support", "1 Jahr Updates"]
+                },
+                "professional": {
+                    "price": 69.99,
+                    "features": ["3 Webseiten", "Premium-Support", "1 Jahr Updates", "Erweiterte Funktionen"]
+                },
+                "business": {
+                    "price": 159.99,
+                    "features": ["10 Webseiten", "Premium-Support", "2 Jahre Updates", "Erweiterte Analyse und Reporting"]
+                },
+                "enterprise": {
+                    "price": 599.99,
+                    "features": ["Unbegrenzte Webseiten", "24/7 VIP-Support", "Lebenslange Updates", "Volle API-Integration", "Exklusive Enterprise-Funktionen"]
+                }
+            }
+        }
+    }
+} 
