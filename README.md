@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td width="50%">
-<img src="wp1.png" alt="Geschwindigkeits-Optimierer Dashboard" style="width: 100%;">
+<img src="assets/wp1.png" alt="Geschwindigkeits-Optimierer Dashboard" style="width: 100%;">
 </td>
 <td width="50%">
 <img src="assets/wp1_demo.png" alt="Geschwindigkeits-Optimierer Demo" style="width: 100%;">
