@@ -1,6 +1,6 @@
 # Geschwindigkeits-Optimierer - Enterprise WordPress Performance Suite
 
-![Geschwindigkeits-Optimierer Dashboard](wp1.png)
+![Geschwindigkeits-Optimierer Dashboard](/assets/wp1.png)
 *Unser intuitives Dashboard zeigt Ihnen alle wichtigen Performance-Metriken auf einen Blick*
 
 ## Überblick
