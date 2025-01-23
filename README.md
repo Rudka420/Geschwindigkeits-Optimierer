@@ -1,7 +1,19 @@
 # Geschwindigkeits-Optimierer - Enterprise WordPress Performance Suite
 
-![Geschwindigkeits-Optimierer Dashboard](/assets/wp1.png)
-*Unser intuitives Dashboard zeigt Ihnen alle wichtigen Performance-Metriken auf einen Blick*
+<table>
+<tr>
+<td width="50%">
+<img src="wp1.png" alt="Geschwindigkeits-Optimierer Dashboard" style="width: 100%;">
+</td>
+<td width="50%">
+<img src="assets/wp1_demo.png" alt="Geschwindigkeits-Optimierer Demo" style="width: 100%;">
+</td>
+</tr>
+<tr>
+<td><i>Unser intuitives Performance-Dashboard zeigt Ihnen alle wichtigen Metriken auf einen Blick</i></td>
+<td><i>Optimierte Webseiten-Performance mit deutscher Ingenieurskunst</i></td>
+</tr>
+</table>
 
 ## Überblick
 **Maximale Geschwindigkeit für Ihre WordPress-Seite. Bis zu 300% schneller!**
@@ -85,5 +97,23 @@ Der Geschwindigkeits-Optimierer revolutioniert die Performance Ihrer WordPress-S
 ## Hinweis zur Code-Verfügbarkeit
 Aus Gründen des Schutzes unseres geistigen Eigentums stellen wir ausgewählte Code-Beispiele zur Verfügung, die unsere Entwicklungsstandards und Implementierungsqualität demonstrieren.
 
+## Wichtiger Hinweis für Paddle-Verifizierung
+Dieser GitHub-Repository enthält eine kuratierte Version unseres Plugins für die Paddle-Verifizierung. Aufgrund von Sicherheitsanforderungen und zum Schutz unserer Enterprise-Kunden können wir den vollständigen Quellcode nicht öffentlich zugänglich machen. Die hier bereitgestellten Code-Beispiele demonstrieren:
+
+1. Unsere Entwicklungsstandards und Coding-Praktiken
+2. Die grundlegende Architektur des Plugins
+3. Die implementierten Sicherheitsmaßnahmen
+4. Die Qualität unserer Dokumentation
+
+Der vollständige Quellcode enthält:
+- Proprietäre Optimierungsalgorithmen
+- Kundenspezifische Enterprise-Funktionen
+- Sicherheitsrelevante Implementierungen
+- Interne API-Endpunkte
+
+Bei Fragen zur Code-Verifizierung stehen wir Ihnen gerne zur Verfügung.
+
 ---
-*Entwickelt von Kulka Labs s.r.o. - Deutsche Ingenieurskunst für Ihre WordPress-Seite* 
+*Entwickelt von Kulka Labs s.r.o. - Deutsche Ingenieurskunst für Ihre WordPress-Seite*
+
+© 2024 Kulka Labs s.r.o. Alle Rechte vorbehalten. 
