@@ -9,10 +9,6 @@
 <img src="assets/wp1_demo.png" alt="Geschwindigkeits-Optimierer Demo" style="width: 100%;">
 </td>
 </tr>
-<tr>
-<td><i>Unser intuitives Performance-Dashboard zeigt Ihnen alle wichtigen Metriken auf einen Blick</i></td>
-<td><i>Optimierte Webseiten-Performance mit deutscher Ingenieurskunst</i></td>
-</tr>
 </table>
 
 ## Überblick
